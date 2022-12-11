@@ -47,7 +47,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 自分用メモ
 
-React of TypeScriptプロジェクトを作成する。
+React of TypeScriptプロジェクトを作成する。  
+原則としてReact単体ではなく、React用のフレームワーク用のNext.jsを使用することとする。  
 
 ```shell
 npx create-react-app my-app --template typescript
